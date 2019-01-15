@@ -1,0 +1,23 @@
+{
+  "name": "react-native-sf-checkbox-new",
+  "version": "1.0.0",
+  "description": "选择框 单选 多选器 checkbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DLSoftFun/react-native-sf-checkbox-new.git"
+  },
+  "keywords": [
+    "checkbox",
+    "box"
+  ],
+  "author": "hzy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DLSoftFun/react-native-sf-checkbox-new.git/issues"
+  },
+  "homepage": "https://github.com/DLSoftFun/react-native-sf-checkbox-new#readme"
+}
