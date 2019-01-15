@@ -3,7 +3,7 @@
 # 选择框
 
 # 安装
-> npm install react-native-sf-checkbox-new
+> npm install react-native-sf-checkbox-new  
 > npm i prop-types
 
 # Props
@@ -15,7 +15,7 @@
 |onClick|func|no|点击回调|null|
 
 # Func
-> setCheck 设置状态
+> setCheck 设置状态  
 > getCheck 获取状态
 
 # 例子
